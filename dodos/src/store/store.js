@@ -1,4 +1,4 @@
-import vue from 'vue';
+import Vue from 'vue';
 import Vuex from 'vuex'
 
 import dodos from './modules/dodo.js';
